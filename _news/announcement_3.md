@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2021-06-29
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+Invited talk: SNOMED CT Web Series [Extending import detection algorithms for concept import from two to three biomedical terminologies](https://www.youtube.com/watch?v=2cqSnaysh2o&t=22s) :sparkles:
