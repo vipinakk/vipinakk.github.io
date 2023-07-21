@@ -11,6 +11,7 @@ nav_order: 5
 
 - Award for ["Excellence in Teaching by a Teaching Assistant"](https://drive.google.com/file/d/1D7n-tjCUl91EHg6Gwo4uMF5T1N8--eZ_/view?usp=sharing) (September 29, 2021) from Ying Wu College of Computing, NJIT.
 
+---
 
 ## [NJIT Ying Wu College of Computing](https://computing.njit.edu/)
 
@@ -38,6 +39,7 @@ nav_order: 5
 
 [CS 103 Computer Science with Business Problems](https://catalog.njit.edu/undergraduate/computing-sciences/computer-science/#coursestext) (Lab instructor) - An introductory course in computer science, with applications to business and managerial decision making. Topics include basic concepts of computer systems, software engineering, algorithm design, programming languages and abstraction, with applications. (Level: Undergrad)
 
+---
 
 ## [National Institute of Technology Karnataka](https://www.nitk.ac.in/)
 
@@ -45,7 +47,7 @@ nav_order: 5
 
 <span style="color:lightblue">MCA 701 Database Management Systems</span> - Topics include Files versus database systems, Three-level architecture of databases, Data Models, ER-diagram, EER-model, Relational model, ER-Relational mapping, Relational algebra and calculus. Query languages, SQL, Embedded SQL, Relational database design algorithms, Normalization, Physical database organization, Indexing and hashing, Transaction processing, Concurrency control techniques, Database recovery techniques, Database security and authorization.
 
-<span style="color:blue">MCA 704 Database Management Systems Lab</span> - Creation of tables, Views, Insertion, Modification and deletion of elements. Implementation of queries. Implementation of joins. Implementation of PL/SQL, triggers, cursors and sub programs. Implementation of database connectivity through front end tools. Database design and implementation. Mini project.
+<span style="color:lightblue">MCA 704 Database Management Systems Lab</span> - Creation of tables, Views, Insertion, Modification and deletion of elements. Implementation of queries. Implementation of joins. Implementation of PL/SQL, triggers, cursors and sub programs. Implementation of database connectivity through front end tools. Database design and implementation. Mini project.
 
 #### Odd semester (Aug 2015 - Dec 2015)
 
