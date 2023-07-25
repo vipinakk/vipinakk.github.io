@@ -5,8 +5,8 @@
       value: Vipina Kuttichi Keloth
     - name: Employment
       value: Postdoctoral Associate, Yale School of Medicine
-    - name: Languages
-      value: English, Malayalam, Hindi
+    - name: Email
+      value: vipina.Kuttichikeloth@yale.edu
 
 - title: Education
   type: time_table
@@ -59,12 +59,12 @@
     - title: Teaching Assistant
       institution: New Jersey Institute of Technology, Newark, New Jersey
       year: 2017-2021
-      description: More here...
+      description: <a href="https://vipinakk.github.io/teaching/">More here...</a>
 
     - title: Assistant Lecturer
       institution: National Institute of Technology, Karnataka, India
       year: 2014 - 2016
-      description: More here...
+      description: <a href="https://vipinakk.github.io/teaching/">More here...</a>
 
 - title: Honors and Awards
   type: time_table
