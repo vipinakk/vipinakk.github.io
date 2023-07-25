@@ -1,39 +1,38 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image
+title: Are Biomedical Ontologies Sustainable?
+description: An attempt to understand how well biomedical ontologies are maintained after their initial development!
 img: assets/img/3.jpg
 importance: 2
 category: work
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+Biomedical ontologies are developed with great investment of time, effort, and
+budget. But are biomedical ontologies regularly maintained? If not, what are the root causes
+behind this? We attempt to investigate these questions both from a
+quantitative and qualitative perspective.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+The information on ontologies from BioPortal was used to analyze various aspects of the
+ontologies. There were a total of 684 ontologies listed on BioPortal as of Jan 18, 2018.
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+First, some basic analysis...
+
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/sust_1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/sust_5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/sust_2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+    Left: Number of ontologies released per year, based on the first release info. in BioPortal; Middle: Number of days since the last update vs. number of visits since the last update; Right: Number of ontologies based on their last update date in BioPortal.
 </div>
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
