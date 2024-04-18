@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2023-06-27
+date: 2023-06-10
 inline: true
 related_posts: false
 ---
 
-:video_camera: [Presented](https://www.youtube.com/watch?v=0iWsPI0MAjg) an overview of our paper [Representing and utilizing clinical textual data for real world studies: An OHDSI approach](https://www.sciencedirect.com/science/article/abs/pii/S1532046423000643) during the OHDSI community call.
+:page_facing_up: New research article in JAMIA - [Systematic design and data-driven evaluation of social determinants of health ontology (SDoHO)](https://academic.oup.com/jamia/article-abstract/30/9/1465/7193859)
