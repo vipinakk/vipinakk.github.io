@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2024-02-01
+date: 2023-09-05
 inline: true
 related_posts: false
 ---
 
-Started a [new position as Associate Research Scientist](https://medicine.yale.edu/profile/vipina-kuttichikeloth/) at the Yale School of Medicine, Section of Biomedical Informatics and Data Science.
+:page_facing_up: New research article in Bioinformatics - [Towards precise PICO extraction from abstracts of randomized controlled trials using a section-specific learning approach](https://academic.oup.com/bioinformatics/article/39/9/btad542/7260503)
