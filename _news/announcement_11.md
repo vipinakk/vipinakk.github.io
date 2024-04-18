@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2024-03-08
+date: 2024-01-18
 inline: true
 related_posts: false
 ---
 
-:video_camera: Co-presented the AMIA webinar on ["How to Use the AMIA Inclusive Language and Context Style Guidelines"](https://amia.org/about-amia/diversity-equity-and-inclusion/amia-inclusive-language-and-context-style-guidelines/how).
+Invited talk: OHDSI India Community Call - [Natural Language Processing for Clinical and Biomedical Information Extraction: Within and Beyond OHDSI](https://www.linkedin.com/feed/update/urn:li:activity:7153167418276696064/)
