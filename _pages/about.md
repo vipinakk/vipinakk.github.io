@@ -8,11 +8,7 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-<<<<<<< HEAD
   <!--- address: >
-=======
-  more_info: >
->>>>>>> upstream/master
     <p>555 your office number</p>
     <p>123 your address street</p>
     <p>Your City, State 12345</p> --->
@@ -29,7 +25,3 @@ I graduated with a PhD in Computer Science from Ying Wu College of Computing, Ne
 My research interests lie broadly in the domain of biomedical ontologies/terminologies and clinical and biomedical natural language processing. 
 
 
-<<<<<<< HEAD
-=======
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
->>>>>>> upstream/master
