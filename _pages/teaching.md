@@ -4,7 +4,7 @@ permalink: /teaching/
 title: teaching
 description: A brief summary of the courses and labs I have taught and/or graded as a Teaching Assistant (Fall 2017 to Spring 2021) at NJIT and as an Assistant Lecturer (2014-2016) at NITK. 
 nav: true
-nav_order: 5
+nav_order: 6
 ---
 
 ## Awards

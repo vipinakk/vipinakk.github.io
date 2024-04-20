@@ -8,15 +8,18 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
+<<<<<<< HEAD
   <!--- address: >
+=======
+  more_info: >
+>>>>>>> upstream/master
     <p>555 your office number</p>
     <p>123 your address street</p>
     <p>Your City, State 12345</p> --->
 
-news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
+news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+social: true # includes social icons at the bottom of the page
 ---
 
 Hello! I am an Associate Research Scientist at the Yale School of Medicine, Section of Biomedical Informatics and Data Science (BIDS) working with [Dr. Hua Xu](https://medicine.yale.edu/profile/hua-xu/). Previously, I was a Postdoctoral Associate at Yale BIDS and before that a Postdoctoral research fellow at the University of Texas Health Science Center at Houston.
@@ -26,3 +29,7 @@ I graduated with a PhD in Computer Science from Ying Wu College of Computing, Ne
 My research interests lie broadly in the domain of biomedical ontologies/terminologies and clinical and biomedical natural language processing. 
 
 
+<<<<<<< HEAD
+=======
+Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+>>>>>>> upstream/master
