@@ -5,7 +5,7 @@ description: An attempt to understand how well biomedical ontologies are maintai
 img: assets/img/ont_sus.jpg
 importance: 2
 category: work
-giscus_comments: true
+giscus_comments: false
 ---
 
 Read the full article <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6371329/">here</a>!
