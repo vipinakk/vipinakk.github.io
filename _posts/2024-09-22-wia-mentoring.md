@@ -21,9 +21,9 @@ I've been a member of the [Women In AMIA](https://amia.org/communities/women_in_
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/wia3.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
-    </div>
+    </div> 
 </div>
-    Open conversations... doesn't that feel great?
+    
 
 
 Back to my train ride, and I thought - why not capture the personal stories and testimonies of mentors and mentees who have experienced the event firsthand to promote engagement in the coming years? The interviewer in me was suddenly wide awake! I took my Scribe and started drafting the questions. The spotty internet connection on the train couldn't curb my excitement and I placed an order for a voice recorder. With all this done, I brought this up in our monthly subcommittee meeting and [Helen](https://www.linkedin.com/in/duo-helen-w-6b814910/) (past chair of the subcommittee), [Polina](https://www.linkedin.com/in/polinakukhareva/) and other members readily agreed and supported the plan. Polina has been the driving force behind this event for the past few years, with the support of many other members of WIA, including Laura Barrett and [Mina Ostavari](https://www.linkedin.com/in/minaostovari/).
