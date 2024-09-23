@@ -13,17 +13,16 @@ For almost the past two years, I've been taking the Metro North from New Haven t
 I've been a member of the [Women In AMIA](https://amia.org/communities/women_in_amia) (WIA) Networking/Mentoring and Lifecycle subcommittee since 2020, and every year, we rack our brains to find new ways to engage more participants and encourage greater involvement in our events during the [AMIA Annual Symposium](https://amia.org/education-events/amia-2024-annual-symposium). One of the main events organized by our subcommittee is the WIA Mentoring Event. Organized for the first time about 5 years ago by the WIA leadership team led by [Wendy Chapman](https://www.linkedin.com/in/wendy-chapman-b613812/) and [Adela Grando](https://www.linkedin.com/in/adela-grando-b96344b/), this event aims to provide a space for AMIA members who identify as women to connect and discuss career development. Unlike fleeting moments of interaction in general networking events, this event gives you a generous 30 - 45 minutes to engage in deeper conversations.
 
 <div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">   
-	{% include figure.liquid loading="eager" path="assets/img/wia1.jpg" class="img-fluid rounded z-depth-1" style="transform:rotate(90deg)}
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/11.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-	{% include figure.liquid loading="eager" path="assets/img/wia1.jpg" class="img-fluid rounded z-depth-1" style="transform:rotate(90deg)}
+        {% include figure.liquid path="assets/img/12.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-	{% include figure.liquid loading="eager" path="assets/img/wia1.jpg" class="img-fluid rounded z-depth-1" style="transform:rotate(90deg)}
+        {% include figure.liquid path="assets/img/7.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
-<div class="caption">
     Open conversations... doesn't that feel great?
 </div>
 
@@ -61,14 +60,4 @@ And finally, if you have ever participated in this event and benefited from it c
 
 
 
-<div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/12.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/7.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
-    </div>
-</div>
+
