@@ -2,7 +2,7 @@
 layout: page
 title: Representing information in clinical notes using OHDSI OMOP CDM
 description: A brief summary of the ongoing effort by the OHDSI NLP working group to represent and utilize data from clinical notes for real-world studies.
-img: assets/ohdsi_nlp.jpg
+img: assets/img/ohdsi_nlp.jpg
 importance: 1
 category: work
 related_publications: true
