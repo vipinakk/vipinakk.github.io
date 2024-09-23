@@ -20,7 +20,7 @@ I've been a member of the [Women In AMIA](https://amia.org/communities/women_in_
         {% include figure.liquid path="assets/img/wia2.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/wia3.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid path="assets/img/wia3.jpg" class="img-fluid rounded z-depth-1" style="transform:rotate(90deg);"%}
     </div>
 </div>
 <div class="caption">
