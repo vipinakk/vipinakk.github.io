@@ -14,13 +14,16 @@ I've been a member of the [Women In AMIA](https://amia.org/communities/women_in_
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/wia1.jpg" class="img-fluid rounded z-depth-1" %}
+        <!--{% include figure.liquid path="assets/img/wia1.jpg" class="img-fluid rounded z-depth-1" %}-->
+	<img src="assets/img/wia1.jpg" style="transform:rotate(90deg); width:236px; height:177px;">
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/wia2.jpg" class="img-fluid rounded z-depth-1" %}
+       <!-- {% include figure.liquid path="assets/img/wia2.jpg" class="img-fluid rounded z-depth-1" %} -->
+	<img src="assets/img/wia2.jpg" style="transform:rotate(90deg); width:236px; height:177px;">
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/wia3.jpg" class="img-fluid rounded z-depth-1" style="transform:rotate(90deg);"%}
+       <!-- {% include figure.liquid path="assets/img/wia3.jpg" class="img-fluid rounded z-depth-1" style="transform:rotate(90deg);"%} -->
+	<img src="assets/img/wia3.jpg" style="transform:rotate(90deg); width:236px; height:177px;">
     </div>
 </div>
 <div class="caption">
