@@ -14,10 +14,10 @@ I've been a member of the [Women In AMIA](https://amia.org/communities/women_in_
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/wia1.jpg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/wia1.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/wia2.jpg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/wia2.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -36,6 +36,15 @@ My first conversation was with [Laura Wiley](https://www.linkedin.com/in/laurakw
 
 One of the interesting conversations I had was with Loria Brown Gordon. After having worked as an administrator for 22 years, she was planning a career change and seeking guidance on pursuing a master’s degree in health informatics. She was excited at the opportunity for genuine conversation, recounting, "Just come and have a conversation, have an open mind, share what you want to share. Just show up and participate; you won't regret it."
 
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/wia3.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/wia4.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+
 While we encourage registrations, we have had people walk-in after knowing about the event during the conference. [Tania Tajirian](https://www.linkedin.com/in/tania-tajirian-962124140/), who floored me with her energy and enthusiasm, walked-in volunteering to be a mentor. She shared her journey becoming Canada's first female CHIO and her motivation to become a mentor. "I would not be where I am without my mentors. It's giving back." She emphasized the qualities that make a great mentor, highlighting "emotional intelligence, humility, and genuine interest in other people’s success." Tania's advice for mentees resonated with me: "It's good to have a few questions in mind, but it will flow organically. It's about the connection, being open, and having that conversation, maintaining regular contacts and the relationship will grow."
 
 Polina's own journey, from mentee to organizer, is a testament to the event's impact. "I started as a mentee," she recalled, "and my mentors helped me immensely with some career decisions." While she hasn't participated as a mentor due to her organizational responsibilities, I can vouch for the immense effort she puts into making this event a success – an effort that inspired me to join her in organizing the event. Did you know that Polina even has an R program to match mentors and mentees? A true informaticist, isn’t it? 
@@ -50,20 +59,6 @@ And finally, if you have ever participated in this event and benefited from it c
 
 
 
-
-Images can be made zoomable.
-Simply add `data-zoomable` to `<img>` tags that you want to make zoomable.
-
-<div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/8.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/10.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
-    </div>
-</div>
-
-The rest of the images in this post are all zoomable, arranged into different mini-galleries.
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
