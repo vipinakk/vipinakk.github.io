@@ -14,17 +14,17 @@ I've been a member of the [Women In AMIA](https://amia.org/communities/women_in_
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid path="assets/img/wia1.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/12.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid path="assets/img/wia2.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/7.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid path="assets/img/wia3.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
     Open conversations... doesn't that feel great?
-</div>
+
 
 Back to my train ride, and I thought - why not capture the personal stories and testimonies of mentors and mentees who have experienced the event firsthand to promote engagement in the coming years? The interviewer in me was suddenly wide awake! I took my Scribe and started drafting the questions. The spotty internet connection on the train couldn't curb my excitement and I placed an order for a voice recorder. With all this done, I brought this up in our monthly subcommittee meeting and [Helen](https://www.linkedin.com/in/duo-helen-w-6b814910/) (past chair of the subcommittee), [Polina](https://www.linkedin.com/in/polinakukhareva/) and other members readily agreed and supported the plan. Polina has been the driving force behind this event for the past few years, with the support of many other members of WIA, including Laura Barrett and [Mina Ostavari](https://www.linkedin.com/in/minaostovari/).
 
@@ -37,13 +37,6 @@ My first conversation was with [Laura Wiley](https://www.linkedin.com/in/laurakw
 [Jaya Chaturvedi](https://www.linkedin.com/in/jayachaturvedi/), who was attending her first AMIA, was thrilled to participate as a mentee and share her experience. "I am nearing the end of my PhD program, and I wanted to get perspectives from senior women in my field," she said, stressing that sometimes a gender perspective really matters. Jaya's experience was invaluable, as she shared, "My first mentor invited me to join a group that meets every month, providing additional support and knowledge in my area of interest." She emphasized the value of event, saying, "I got everything I wanted from this event – new avenues of support, advice on different things to consider, including perspectives from someone working in an area I was considering."
 
 One of the interesting conversations I had was with Loria Brown Gordon. After having worked as an administrator for 22 years, she was planning a career change and seeking guidance on pursuing a master’s degree in health informatics. She was excited at the opportunity for genuine conversation, recounting, "Just come and have a conversation, have an open mind, share what you want to share. Just show up and participate; you won't regret it."
-
-<div class="row mt-3">
-    
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/wia4.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
-    </div>
-</div>
 
 While we encourage registrations, we have had people walk-in after knowing about the event during the conference. [Tania Tajirian](https://www.linkedin.com/in/tania-tajirian-962124140/), who floored me with her energy and enthusiasm, walked-in volunteering to be a mentor. She shared her journey becoming Canada's first female CHIO and her motivation to become a mentor. "I would not be where I am without my mentors. It's giving back." She emphasized the qualities that make a great mentor, highlighting "emotional intelligence, humility, and genuine interest in other people’s success." Tania's advice for mentees resonated with me: "It's good to have a few questions in mind, but it will flow organically. It's about the connection, being open, and having that conversation, maintaining regular contacts and the relationship will grow."
 
