@@ -14,14 +14,14 @@ I've been a member of the [Women In AMIA](https://amia.org/communities/women_in_
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/9.jpg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/wia1.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/7.jpg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/wia2.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    A simple, elegant caption looks good between image rows, after each row, or doesn't have to be there at all.
+    Open conversations... doesn't that feel great?
 </div>
 
 Back to my train ride, and I thought - why not capture the personal stories and testimonies of mentors and mentees who have experienced the event firsthand to promote engagement in the coming years? The interviewer in me was suddenly wide awake! I took my Scribe and started drafting the questions. The spotty internet connection on the train couldn't curb my excitement and I placed an order for a voice recorder. With all this done, I brought this up in our monthly subcommittee meeting and [Helen](https://www.linkedin.com/in/duo-helen-w-6b814910/) (past chair of the subcommittee), [Polina](https://www.linkedin.com/in/polinakukhareva/) and other members readily agreed and supported the plan. Polina has been the driving force behind this event for the past few years, with the support of many other members of WIA, including Laura Barrett and [Mina Ostavari](https://www.linkedin.com/in/minaostovari/).
@@ -42,7 +42,7 @@ Polina's own journey, from mentee to organizer, is a testament to the event's im
 
 The current Co-chairs of the subcommittee, [Michelle Crozier](https://www.linkedin.com/in/michelle-crozier-phd-mph-cph-ab40213a/) and [Nicole Guevara](https://www.linkedin.com/in/nguevara/), are committed to taking this event a step ahead by organizing online mentoring events throughout the year. Find out more by clicking the ‘Apply here’ link in the flyer below or reach out to our Co-chairs.
 
-And finally, if you have ever participated in this event and benefited from it come share your experiences by commenting below, sharing it with your mentors/mentees and please consider registering for the event. We hope to see you all in San Francisco in November. 
+And finally, if you have ever participated in this event and benefited from it come share your experiences, forward it to your mentors/mentees and please consider registering for the event. I hope to see you all in San Francisco this November. 
 
 
 
