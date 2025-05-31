@@ -19,7 +19,7 @@ nav_order: 3
 
 [CS 114 Introduction to Computer Science II](https://catalog.njit.edu/undergraduate/computing-sciences/computer-science/#coursestext) (Lab instructor) - A study of advanced programming topics with logical structures of data, their physical representation, and the design of computer algorithms operating on the structures. Course covers program specifications, correctness and efficiency, data abstraction, and algorithm analysis. (Level: Undergrad)
 
-[CS 632 Advanced Database Systems Design](https://web.njit.edu/~geller/632/syllabus2020springV12.htm) (Grading) - An advanced course on databases covering topics such as programming in PL/SQL, OODBs, DB security, Indexing, and Buffer tuning. An introduction to No-SQL databases, especially MongoDB, various formats including XML and JSON and an overview of the ETL (Extract-Transform-Load) of data. (Level: Graduate)
+[CS 632 Advanced Database Systems Design](https://digitalcommons.njit.edu/cs-syllabi/521/) (Grading) - An advanced course on databases covering topics such as programming in PL/SQL, OODBs, DB security, Indexing, and Buffer tuning. An introduction to No-SQL databases, especially MongoDB, various formats including XML and JSON and an overview of the ETL (Extract-Transform-Load) of data. (Level: Graduate)
 
 #### Spring 2019, Fall 2019, Spring 2020, Fall 2020
 
