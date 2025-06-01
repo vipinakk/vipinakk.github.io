@@ -22,6 +22,4 @@ Hello! I am an Associate Research Scientist at the Yale School of Medicine, Depa
 
 I graduated with a PhD in Computer Science from Ying Wu College of Computing, New Jersey Institute of Technology co-advised by [Dr. James Geller](https://web.njit.edu/~geller/) and [Dr. Yehoshua Perl](https://web.njit.edu/~perl/). Prior to that I worked as an assistant lecturer at the National Institute of Technology Karnataka, India.
 
-My research interests lie broadly in the domain of biomedical ontologies/terminologies and clinical and biomedical natural language processing. 
-
-
+My research interests lie broadly in the domain of biomedical ontologies/terminologies and clinical and biomedical natural language processing.

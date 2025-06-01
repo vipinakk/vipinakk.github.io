@@ -33,7 +33,7 @@
   contents:
     - title: Postdoctoral Associate
       institution: Section of Biomedical Informatics and Data Science, School of Medicine, Yale University
-      year: 2023 - 
+      year: 2023 -
       description: Advisor:- Dr. Hua Xu
 
     - title: Postdoctoral Fellow
@@ -44,7 +44,7 @@
     - title: Graduate Student
       institution: New Jersey Institute of Technology, Newark, New Jersey
       year: 2016-2021
-      description: 
+      description:
         - Dissertation:- Methods for extending biomedical reference ontologies and interface terminologies for EHR text annotation
         - Advisors:- Dr. James Geller, Dr. Yehoshua Perl
 
@@ -70,25 +70,25 @@
   type: time_table
   contents:
     - year: 2021
-      items: 
+      items:
         - Award for "Excellence in Teaching by a Teaching Assistant," Ying Wu College of Computing, NJIT
     - year: 2016
-      items: 
+      items:
         - Junior Research Fellowship from University Grants Commission of India for pursuing Ph.D.
     - year: 2012-2014
-      items: 
+      items:
         - Scholarship from the Ministry of Human Resource Development, Govt. of India.
 
 - title: Academic Services
   type: nested_list
   contents:
     - title: Scientific Program Committee
-      items: 
+      items:
         - AMIA Annual Symposium – 2022, 2023
         - IEEE International Conference on Healthcare Informatics (ICHI) Analytics Track, 2023
         - Quality Assurance and Enrichment of Biological and Biomedical Ontologies and Terminologies, IEEE BIBM, 2021
     - title: Workshops Co-organized
-      items: 
+      items:
         - Concepts and Practice of Diversity, Equity, and Inclusion (DEI) in the Scholarly Communication for Biomedical Informatics, AMIA Annual Symposium, 2022
     - title: Journal/Conference Reviewing
       items:
@@ -105,7 +105,7 @@
   type: nested_list
   contents:
     - title: Committees/Volunteer
-      items: 
+      items:
         - AMIA Annual Symposium Student Paper Competition Committee (2021-)
         - AMIA Diversity, Equity, and Inclusion task force - Communications Subcommittee (2021-)
         - Women in AMIA - Mentoring, Networking and Lifecycle  Subcommittee (2022-)

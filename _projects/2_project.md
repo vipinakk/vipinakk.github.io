@@ -20,7 +20,6 @@ ontologies. There were a total of 684 ontologies listed on BioPortal as of Jan 1
 
 First, some basic analysis...
 
-
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/sust_1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
@@ -71,5 +70,3 @@ to maintain an ontology over a longer period.
 </div>
 
 It will be advisable for any project team that wishes to create a sustainable ontology to plan for the “long tail of maintenance” already at the time of project inception and to attempt to secure future funding from sources other than federal agencies.
-
-

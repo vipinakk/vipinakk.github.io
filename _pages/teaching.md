@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: A brief summary of the courses and labs I have taught and/or graded as a Teaching Assistant (Fall 2017 to Spring 2021) at NJIT and as an Assistant Lecturer (2014-2016) at NITK. 
+description: A brief summary of the courses and labs I have taught and/or graded as a Teaching Assistant (Fall 2017 to Spring 2021) at NJIT and as an Assistant Lecturer (2014-2016) at NITK.
 nav: true
 nav_order: 3
 ---
@@ -53,7 +53,7 @@ nav_order: 3
 
 <span style="color:lightblue">MCA 601 Computer Organization and Architecture</span> - An introductory course on the fundamental elements in a computer system including the processor, memory, and interfaces to external components and systems. Topics include Data Representation, Number systems, Logic design, Addressing modes, Assembly Language programming, Memory organization, Arithmetic: Adders, Carry Look ahead Adder, CSA, Fast multipliers, Booth multiplier, Floating point representation and operations, CPU architecture and organization, Microprogramming, Hardwired control unit, Instruction Formats I/O architecture. Multiprocessing, RISC vs., CISC Architectures, Pipelining and superscalar machine, Parallel processing.
 
-<span style="color:lightblue">MCA 607 Computer Architecture Lab</span> 
+<span style="color:lightblue">MCA 607 Computer Architecture Lab</span>
 
 <span style="color:lightblue">MCA 615 Theory of Computation</span> - Finite automata. Moore and Melay machines. Regular Expressions. Pumping lemma. Minimizing the automata.
 Formal Languages. Regular languages. Context free languages (CFL). Chomsky and Greibach Normal forms.Pushdown automata (PDA). Equivalence of PDA and CFL. Turing machines. Theory of recursive functions.Complexity theory. NP-completeness
@@ -68,8 +68,6 @@ Formal Languages. Regular languages. Context free languages (CFL). Chomsky and G
 
 <span style="color:lightblue">MCA 601 Computer Organization and Architecture</span> - An introductory course on the fundamental elements in a computer system including the processor, memory, and interfaces to external components and systems. Topics include Data Representation, Number systems, Logic design, Addressing modes, Assembly Language programming, Memory organization, Arithmetic: Adders, Carry Look ahead Adder, CSA, Fast multipliers, Booth multiplier, Floating point representation and operations, CPU architecture and organization, Microprogramming, Hardwired control unit, Instruction Formats I/O architecture. Multiprocessing, RISC vs., CISC Architectures, Pipelining and superscalar machine, Parallel processing.
 
-<span style="color:lightblue">MCA 607 Computer Architecture Lab</span> 
+<span style="color:lightblue">MCA 607 Computer Architecture Lab</span>
 
 <span style="color:lightblue">MCA 828 Compiler Design</span> - Topics include Phases of a compiler. Lexical analysis. Syntax analysis. LEX and YACC utility. Syntax directed translation. Runtime Environments. Intermediate code generation. Code optimization. Code generation.
-
-
